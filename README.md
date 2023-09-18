@@ -10,6 +10,7 @@
 - 👀 I’m interested in ...
 - 📚 I’m currently attending the neuefische bottcamp on data science as I love to work with data.
 - 💞️ I’m looking to collaborate on ...
+- 😄 Pronouns: She/Her
 - 📧 How to reach me: <a href="janina-kleine@gmx.de">janina-kleine@gmx.de</a>
 
 <!---
