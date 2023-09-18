@@ -1,5 +1,7 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Janina (Kleine)</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hey there</h1>
 <p align='center'>
+  
+_I'm Janina. A former research and teaching assistant from Germany transitioning out of academia to pursue a career in data science and research._
   
   <a href="https://www.linkedin.com/in/janina-kleine-a5063222a">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
