@@ -5,8 +5,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
+
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 📚 I’m currently attending the neuefische bottcamp on data science as I love to work with data.
 - 💞️ I’m looking to collaborate on ...
 - 📧 How to reach me: <a href="janina-kleine@gmx.de">janina-kleine@gmx.de</a>
 
