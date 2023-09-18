@@ -3,7 +3,9 @@
 
 ### M.Sc. Business Administration and Data Scientist in Training
   
-_I'm a former research and teaching assistant from Germany transitioning out of academia to pursue a career in data science and research._
+_I'm a former research and teaching assistant from Germany:de: transitioning out of academia🎓 to pursue a career in data science and research._
+
+----
   
 <a href="https://www.linkedin.com/in/janina-kleine-a5063222a">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
