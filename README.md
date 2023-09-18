@@ -1,10 +1,15 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Janina</h1>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/janina-kleine-a5063222a">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 - 👋 Hi, I’m @janina-kleine
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="janina-kleine@gmx.de">janina-kleine@gmx.de</a>
+- 📧 How to reach me: <a href="janina-kleine@gmx.de">janina-kleine@gmx.de</a>
 
 <!---
 janina-kleine/janina-kleine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
