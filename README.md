@@ -1,5 +1,5 @@
-<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Janina</h1>
-<h3 align="left">An aspiring fullstack developer from India.</h3>
+<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Janina</h1>
+
 - 👋 Hi, I’m @janina-kleine
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
