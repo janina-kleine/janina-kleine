@@ -15,7 +15,6 @@ _I'm a former research and teaching assistant from Germany:de: transitioning out
 
 - 👀 I’m interested in ...
 - 📚 I’m currently working on becoming a Data Scientist with [neuefische GmbH](https://www.neuefische.de/en) as I love to work with data.
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: She/Her
 - 📧 How to reach me: <a href="janina-kleine@gmx.de">janina-kleine@gmx.de</a>
 
